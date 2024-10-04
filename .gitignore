@@ -1,0 +1,56 @@
+node_modules/
+npm-debug.log
+yarn-error.log
+.env
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+
+# Environment variables file
+.env
+
+# Virtual environment
+venv/
+
+# Jupyter Notebook checkpoints
+.ipynb_checkpoints/
+# Compiled class file
+*.class
+
+# Log files
+*.log
+
+# BlueJ files
+*.ctxt
+
+# Mobile Tools for Java (J2ME)
+.mtj.tmp/
+
+# Package Files #
+*.jar
+*.war
+*.ear
+
+# Maven
+target/
+
+# Gradle
+.gradle/
+build/
+
+# IDEs
+.idea/
+*.iml
+.classpath
+.project
+.vscode/
+.idea/
+*.iml
+out/
+.classpath
+.project
+.settings/
+bin/
+.env
+Thumbs.db
+desktop.ini
