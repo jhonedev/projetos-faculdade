@@ -1,4 +1,4 @@
-package Sistema;
+package sistema;
 import java.util.Date;
 
 public class Emprestimo {
