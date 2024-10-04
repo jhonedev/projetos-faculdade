@@ -4,11 +4,7 @@ Bem-vindo ao repositório exclusivo para os projetos desenvolvidos durante meu c
 
 ## 📁 Estrutura do Repositório
 
-Cada projeto ou atividade está organizado em pastas separadas, facilitando a navegação e compreensão. A estrutura básica segue o padrão abaixo:
-
-- `Projeto1/` - Nome e breve descrição do projeto 1.
-- `Projeto2/` - Nome e breve descrição do projeto 2.
-- ...
+Cada projeto ou atividade está organizado em pastas separadas, facilitando a navegação e compreensão.
 
 ## 🛠️ Tecnologias e Ferramentas
 
