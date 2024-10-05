@@ -54,3 +54,4 @@ bin/
 .env
 Thumbs.db
 desktop.ini
+/output/
